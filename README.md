@@ -45,4 +45,4 @@ This project contains automated UI and API tests for Report Portal using Seleniu
    allure serve target/allure-results
    ```
 
-**Note**: All tests are currently failing. I’ve set a hard time limit for this specific task, as the Java specialist role is not a higher priority for me, and decided to submitted the work completed so far in the hope that the effort will be recognized—not just the results. Additionally, as I understand it, these tasks are meant to serve as pre-screening interview assessments, not training exercises—especially for professionals who are already trained.
+**Note**: All tests are currently failing. I’ve set a hard time limit for this specific task, as the Java specialist role is not a higher priority for me, and decided to submit the work completed so far in the hope that the effort will be recognized—not just the results. Additionally, as I understand it, these tasks are meant to serve as pre-screening interview assessments, not training exercises—especially for professionals who are already trained.
